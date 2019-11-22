@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Porsche</string>
+    <string name="title_salon">Porsche</string>
+    <string name="title_accessories">Аксесуари</string>
+    <string name="title_account">Мій Кабінет</string>
+
+
+    <string name="fuel_subtitle">л/100 км</string>
+    <string name="co2_subtitle">г/км</string>
+    <string name="zh_subtitle">Прискорення від 0 - 100 км/г</string>
+    <string name="wd_subtitle">Привід</string>
+    <string name="hp_subtitle">Потужність (к.с.)/Потужність (кВт)</string>
+    <string name="price_subtitle">Орієнтована вартість</string>
+    <string name="speed_subtitle">Максимальна швидкість</string>
+
+    <string name="add">Додати</string>
+    <string name="cancel">Відмінити</string>
+    <string name="dialog_camera">Камера</string>
+    <string name="dialog_galary">Галарея</string>
+    <string name="dialog_remove">Видалити</string>
+    <string name="ok">Ok</string>
+    <string name="sign_up">Зареєструватись</string>
+
+
+    <string name="required_camera_permission">Application needs permission to access your camera</string>
+    <string name="required_location_permission">Application needs permission to get your location</string>
+    <string name="required_write_to_storage_permission">Application needs permission to write at disc</string>
+    <string name="reject_permission">Never show</string>
+    <string name="permission_required">Requires permission</string>
+
+    <string name="const_1">1. Екстер\'єр</string>
+    <string name="const_2">2. Інтер\'єр</string>
+    <string name="const_3">3. Опції</string>
+    <string name="const_4">4. Аксесуари</string>
+    <string name="const_5">5. Підсумок</string>
+
+    <string name="ad_const_1">Екстер\'єр</string>
+    <string name="ad_const_2">Інтер\'єр</string>
+    <string name="ad_const_3">Опції</string>
+    <string name="ad_const_4">Аксесуари</string>
+    <string name="ad_const_5">Підсумок</string>
+
+</resources>
